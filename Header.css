@@ -1,0 +1,16 @@
+.text-shadow {
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3); /* Sombras no texto */
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase; /* Deixa o texto em maiúsculas */
+    color: white; /* A cor do texto é branca */
+  }
+  
+  .bg-dark {
+    background-color: #333; /* Cor de fundo escura para o header, você pode alterar */
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
